@@ -177,7 +177,7 @@ namespace Lab2.Tests
         }
 
         [TestMethod()]
-        public void RomanNumberTest1()
+        public void RomanNumberTest()
         {
             Assert.IsNotNull(new RomanNumber(1));
         }
